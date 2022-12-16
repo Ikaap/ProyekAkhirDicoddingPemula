@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ProyekAkhir-IkaPurwanti</string>
+    <string name="produk_name">Nama Produk</string>
+    <string name="manfaat">Manfaat</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="cara_pemakaian">Cara Pemakaian</string>
+    <string name="ukuran_ket">Ukuran : </string>
+    <string name="isi_deskripsi">Isi Deskripsi</string>
+    <string name="isi_manfaat">Isi Manfaat</string>
+    <string name="cara_pakai">Cara Pakai</string>
+    <string name="skintific">SKINTIFIC</string>
+    <string name="ika_purwanti">Ika Purwanti</string>
+    <string name="ikapurwanti144_gmail_com">ikapurwanti144@gmail.com</string>
+    <string name="rp_0">Rp. 0</string>
+    <string name="isi_cara_pakai">Isi Cara Pakai</string>
+    <string name="_0_ml">0 ml</string>
+    <string name="share">Share</string>
+    <string name="detail">Detail</string>
+
+</resources>
